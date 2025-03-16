@@ -1,7 +1,7 @@
 - 👋 Hi, I’m atogebania alexander
-- 👀 I’m interested in programming, google technologies, office productivity, networking and animation
-- my tech stack is: java,flask,javascript,django,python,react
-- 🌱 I’m currently undertaking a computer science degree
+- 👀 I’m interested in programming, software development, business strategies ,computer networks, RPA, Data engineering, and Devopsec. 
+- my tech stack is: java spring boot,flask,javascript, typescript,django, python,react, next.js
+- 🌱 I’m a computer science grad
 - 💞️ I’m looking to collaborate on projects to help build my skills
 - 📫 How to reach me aatogebania@gmail.com
 
